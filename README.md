@@ -235,16 +235,9 @@ Provides ±9V supply rails required for analog signal processing.
 │   └── ECG_FM_Telemetry_Project_Report.pdf
 ```
 
-## Authors
-
-- Shreya Das
-- Sanjana B
-- Kashika Tolani
-
-### Guide
-
-Dr. Christina Josephine Malathi A  
-Department of Communication Engineering  
+## Author
+Shreya Das
+24BML0071
 Vellore Institute of Technology
 
 ---
